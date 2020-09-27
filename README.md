@@ -6,12 +6,9 @@ You can read more about custom patches in the [customization section of the ratt
 
 ## Patch Compatibility
 
-Currently, only the following patches have been updated and confirmed to be working in Android 10.0.
+Currently, only the following patches have been updated and confirmed to be working in Android 11.0.
 
-* 00001-global-internet-permission-toggle.patch
-* 00003-disable-menu-entries-in-recovery.patch
-* 00004-increase-default-maximum-password-length.patch
-* 00008-round-icon.patch
+* 00001-global-internet-and-sensor-permission-toggle.patch
 
 ## Submitting Community Patches
 Rules for submitting a patch:
